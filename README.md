@@ -25,4 +25,4 @@ Primary Azure Technology : Web, Static Web Apps.
 
 Other Azure Technologies : App Service
 
-#Azure link:
+#Azure link:https://calm-river-0ce478910.2.azurestaticapps.net
