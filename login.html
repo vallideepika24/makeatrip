@@ -1,0 +1,38 @@
+<?php include('server.php') ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOGIN</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+
+</head>
+<body>
+	<div class="header1">
+		<h2 style="color: Red;">Signin</h2>
+	</div>
+	
+	<form method="post" action="index.html">
+
+		<?php include('errors.php'); ?>
+
+		<div class="input-group">
+			<label>Username</label>
+			<input type="text" name="username" >
+		</div>
+		<div class="input-group">
+			<label>Password</label>
+			<input type="password" name="password">
+		</div>
+
+		
+
+		<div class="input-group">
+			<a href="index.html"><button type="submit" class="btn" name="login_user"   onclick="alert('Logged In Successfully')">Login</button></a>
+		</div>
+		<p>
+			Not yet a member? <a href="register.html">Sign up</a>
+		</p>
+	</form>
+
+</body>
+</html>
