@@ -25,4 +25,4 @@ Primary Azure Technology : Web, Static Web Apps.
 
 Other Azure Technologies : App Service
 
-#Azure link:https://green-glacier-076e76300.1.azurestaticapps.net
+#Azure link:
