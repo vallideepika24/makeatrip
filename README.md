@@ -1,4 +1,4 @@
-# makeyourtrip
+# makeatrip
 this is my frt projrct
 Microsoft-Future-Ready-Talent-Internship-Project Front-End tourism Website.
 
